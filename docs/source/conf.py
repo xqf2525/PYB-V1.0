@@ -1,13 +1,4 @@
-# Configuration file for the Sphinx documentation builder.
 
-# -- Project information
-
-project = 'PYB_V1.0'
-copyright = '2023, TAXI'
-author = 'TAXI'
-
-release = '0.1'
-version = '0.1.0'
 
 
 # -*- coding: utf-8 -*-
@@ -62,12 +53,15 @@ templates_path = ['_templates']
 # The master toctree document.
 master_doc = 'index'
 
-# General information about the project.
-project = u'Recommonmark'
-copyright = u'2015, Luca Barbato, Eric Holscher, and contributors'
-author = u'Luca Barbato, Eric Holscher, and contributors'
 
-github_doc_root = 'https://github.com/rtfd/recommonmark/tree/master/docs/'
+
+
+# General information about the project.
+project = 'PYB_V1.0'
+copyright = '2023, TAXI'
+author =  'TAXI'
+
+#github_doc_root = 'https://github.com/rtfd/recommonmark/tree/master/docs/'
 
 # The version info for the project you're documenting, acts as replacement for
 # |version| and |release|, also used in various other places throughout the
