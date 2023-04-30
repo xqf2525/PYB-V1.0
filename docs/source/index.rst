@@ -17,8 +17,9 @@ Contents
 --------
 
 .. toctree::
+   :maxdepth: 2
 
-   usage
-   api
+   hello
+
 
 Lumache has its documentation hosted on Read the Docs.
